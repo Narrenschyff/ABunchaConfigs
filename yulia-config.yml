@@ -1,0 +1,7 @@
+env: dev
+testValues: "test yulia s config"
+Logging:
+  LogLevel:
+    Default: "Warning"
+    System: "Information"
+    Microsoft: "Information"
