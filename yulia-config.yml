@@ -4,4 +4,4 @@ Logging:
   LogLevel:
     Default: "Warning"
     System: "Information"
-    Microsoft: "Information"
+    Microsoft1: "Information"
