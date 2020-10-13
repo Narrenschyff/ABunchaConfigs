@@ -1,0 +1,7 @@
+env: int
+testValues: "some of yulias tests"
+Logging:
+  LogLevel:
+    Default: "Warning"
+    System: "Information"
+    Microsoft4: "Information"
