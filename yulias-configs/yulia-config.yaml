@@ -1,0 +1,7 @@
+env: int
+testValues: "test yulia s config inside a folder"
+Logging:
+  LogLevel:
+    Default: "Warning"
+    System: "Information"
+    Microsoft: "Information"
