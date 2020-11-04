@@ -1,4 +1,4 @@
-env: dev
+env: none
 testValues: "test yulia s config"
 Logging:
   LogLevel:
